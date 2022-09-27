@@ -31,3 +31,14 @@
 - [Nav](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - Form (input, select, radio, checkbox)
 - Media (video, audio, youtube)
+
+
+# Python 
+- String
+- Flow Control
+- Function
+- Data Types
+- File Handling
+- Object & Class
+- Advanced Tutorials
+- Date and Time
