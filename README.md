@@ -42,3 +42,10 @@
 - Object & Class
 - Advanced Tutorials
 - Date and Time
+
+
+# Flask
+- basic config
+- connect REST APIs
+- CRUD app
+
