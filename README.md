@@ -49,3 +49,14 @@
 - connect REST APIs
 - CRUD app
 
+# SQL
+- basic queries
+- CREATE DB & table, DROP DB & table, 
+- Relational DB
+
+
+# Linux
+- cd, ls, echo, mkdir....
+- create/edit file, Edit config file
+- systemd commands, cronejob, ...
+- creating basic  Nginx web server
