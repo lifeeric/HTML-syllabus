@@ -20,14 +20,6 @@
 -   `<ins>`  - Inserted text
 -   `<sub>`  - Subscript text
 -   `<sup>`  - Superscript text
-- `<blockquote>` -  a secction quoted from another source.
--  `<q>` - for short quote 
-- `<abbr>` - defines abbrevaiation
-- `<address>` - defines contact info
--  `<cite>` - defines the creative work of book,, work..
--  `<bdo>`- override the text direction
-- `<code>` - defines codes
-- `<kdb>`- defines keyborads shortcut
 - comment
 - Table
 - List
@@ -37,6 +29,34 @@
 - ID & class
 - Iframe
 - [Nav](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- Adding emoji
 - Form (input, select, radio, checkbox)
 - Media (video, audio, youtube)
+
+
+# Python 
+- String
+- Flow Control
+- Function
+- Data Types
+- File Handling
+- Object & Class
+- Advanced Tutorials
+- Date and Time
+
+
+# Flask
+- basic config
+- connect REST APIs
+- CRUD app
+
+# SQL
+- basic queries
+- CREATE DB & table, DROP DB & table, 
+- Relational DB
+
+
+# Linux
+- cd, ls, echo, mkdir....
+- create/edit file, Edit config file
+- systemd commands, cronejob, ...
+- creating basic  Nginx web server
